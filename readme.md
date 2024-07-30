@@ -55,7 +55,18 @@ This tool simplifies the process of adding animations to your UI elements, makin
     
     The tool contain some ui elements to be used as examples.
 
-1. SnButton - A simple button with a hover, click, and selected effects.
+Open the `Tests/Test` scene to see a button example.
+ 
+more examples coming soon...
+
+## Roadmap
+
+- [ ] Add documentation.
+- [ ] Convert the tool to a package.
+- [ ] Add more examples.
+- [ ] Add more effects.
+- [ ] Add more customization options.
+- [ ] Add more UI elements.
 
 ## Contributing
 
