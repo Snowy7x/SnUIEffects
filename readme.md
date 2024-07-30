@@ -31,13 +31,13 @@ This tool simplifies the process of adding animations to your UI elements, makin
 
 1. Open the Unity Package Manager from `Window > Package Manager`.
 2. Click on the `+` button and select `Add package from git URL...`.
-3. Enter the following URL: https://github.com/snowy7x/unity-ui-effects.git.
+3. Enter the following URL: https://github.com/snowy7x/SnUIEffects.git.
 4. Click on the `Add` button to install the package.
 5. The package will now appear in the Package Manager under `UI Effects`.
 
 ### Releases
 
-1. Download the latest release from the [Releases](https://github.com/snowy7x/unity-ui-effects/releases) page.
+1. Download the latest release from the [Releases](https://github.com/snowy7x/SnUIEffects/releases) page.
 2. Import the package into your Unity project.
 3. The tool is now ready to use in your project.
 
